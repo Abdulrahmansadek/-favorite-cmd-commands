@@ -1,0 +1,18 @@
+git commit -m 
+to create new commit for new added files . or mudified files .
+
+git log 
+show all the commits you has been added 
+
+git log -p 
+shows all commits and the containers of your files 
+
+git push 
+uploading your file to your repository
+
+git pull 
+download the files from the repository and is recommended specially when you work with someone else then you can see the changes 
+on you local computers
+
+git status
+also to see the sitiuation of the files
